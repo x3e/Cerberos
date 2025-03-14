@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SAOv2")(type "KiCad")(uri "${KIPRJMOD}/SAOv2/Simple_Addon_v2.pretty")(options "")(descr ""))
+  (lib (name "st7789")(type "Eagle")(uri "${KIPRJMOD}/st7789/st7789.lbr")(options "")(descr ""))
+  (lib (name "Connector_USB_PCB_Edge")(type "KiCad")(uri "${KIPRJMOD}/usb-edge/footprints/Connector_USB_PCB_Edge.pretty")(options "")(descr ""))
+  (lib (name "CH552G")(type "KiCad")(uri "${KIPRJMOD}/CH552G-Kicad-Footprint-main/lib/CH552G.pretty")(options "")(descr ""))
+)

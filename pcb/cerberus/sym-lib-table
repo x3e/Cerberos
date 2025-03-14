@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SAOv2")(type "Legacy")(uri "${KIPRJMOD}/SAOv2/Simple_Addon_v2.lib")(options "")(descr ""))
+  (lib (name "CH552G")(type "KiCad")(uri "${KIPRJMOD}/CH552G-Kicad-Footprint-main/lib/CH552G.kicad_sym")(options "")(descr ""))
+  (lib (name "usb-edge")(type "KiCad")(uri "${KIPRJMOD}/usb-edge/symbols/Connector_USB_PCB_Edge.kicad_sym")(options "")(descr ""))
+  (lib (name "st7789")(type "EAGLE")(uri "${KIPRJMOD}/st7789/st7789.lbr")(options "")(descr ""))
+)
